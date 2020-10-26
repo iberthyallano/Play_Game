@@ -1,0 +1,13 @@
+body{
+    width: 95;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+canvas{
+    border: solid 4px black;
+}
