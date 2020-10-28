@@ -6,6 +6,7 @@ Repositório criado com o intuito de conter todos os games básicos desenvolvido
 
 ### Jogos:
 - Snake Game
+- Rescue Game
 
 ### :bookmark_tabs: Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
