@@ -7,6 +7,7 @@ Repositório criado com o intuito de conter todos os games básicos desenvolvido
 ### Jogos:
 - Dino Game
 - Genius Game
+- Memory Game
 - Rescue Game
 - Snake Game
 
