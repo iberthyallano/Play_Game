@@ -5,9 +5,11 @@
 Repositório criado com o intuito de conter todos os games básicos desenvolvidos durante o curso de JavaScript Game Developer. 
 
 ### Jogos:
-- Snake Game
-- Rescue Game
+- Dino Game
 - Genius Game
+- Rescue Game
+- Snake Game
+
 
 ### :bookmark_tabs: Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
