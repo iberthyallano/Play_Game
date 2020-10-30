@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://creativevip.net/resource-images/15-video-game-icons-1.png">
+	<img src="https://www.pngkit.com/png/full/346-3465673_icon-of-a-video-game-controller-roblox-game.png">
 	Play Game
 </h1>
 
