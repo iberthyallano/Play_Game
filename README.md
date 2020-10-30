@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://www.pngkit.com/png/full/346-3465673_icon-of-a-video-game-controller-roblox-game.png">
+	<img src="https://www.pngkit.com/png/full/346-3465673_icon-of-a-video-game-controller-roblox-game.png" width="150" heigth="150">
 	Play Game
 </h1>
 
