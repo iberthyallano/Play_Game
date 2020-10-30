@@ -1,5 +1,6 @@
 <h1 align="center">
-	Games
+	<img src="https://creativevip.net/resource-images/15-video-game-icons-1.png">
+	Play Game
 </h1>
 
 Repositório criado com o intuito de conter todos os games básicos desenvolvidos durante o curso de JavaScript Game Developer. 
