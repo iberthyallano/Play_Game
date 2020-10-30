@@ -1,8 +1,9 @@
-<h1 align="center">
+<div align="center">
 	<img src="https://www.pngkit.com/png/full/346-3465673_icon-of-a-video-game-controller-roblox-game.png" width="150" heigth="150">
+</div>
+<h1 align="center">
 	Play Game
 </h1>
-
 Repositório criado com o intuito de conter todos os games básicos desenvolvidos durante o curso de JavaScript Game Developer. 
 
 ### :video_game: Jogos:
