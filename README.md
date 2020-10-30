@@ -1,11 +1,11 @@
-<img src="https://www.pngkit.com/png/full/346-3465673_icon-of-a-video-game-controller-roblox-game.png" width="150" heigth="150" align="center">
 <h1 align="center">
+	<img src="https://www.pngkit.com/png/full/346-3465673_icon-of-a-video-game-controller-roblox-game.png" width="150" heigth="150">
 	Play Game
 </h1>
 
 Repositório criado com o intuito de conter todos os games básicos desenvolvidos durante o curso de JavaScript Game Developer. 
 
-### Jogos:
+### :video_game: Jogos:
 - Dino Game
 - Genius Game
 - Memory Game
