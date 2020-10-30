@@ -10,6 +10,7 @@ Repositório criado com o intuito de conter todos os games básicos desenvolvido
 - Memory Game
 - Rescue Game
 - Snake Game
+- Space Shooter Game
 - Tic Tac Toe Game
 
 
